@@ -5,13 +5,15 @@ from matrix import *
 import math
 
 screen = new_screen()
-color = [ 255, 255, 255 ]
+color = [ 0, 0, 0 ]
 edges = []
-transform = new_matrix()
+temp = new_matrix()
+ident(temp)
+edges.append(temp)
 
 # print_matrix( make_bezier() )
 # print
 # print_matrix( make_hermite() )
 # print
 
-parse_file( 'dwscript', edges, transform, screen, color )
+parse_file( 'dwscript', edges, screen, color )
