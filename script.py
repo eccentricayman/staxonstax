@@ -18,5 +18,4 @@ with open("script", "w") as fd:
             end += "save\n anim/00%d.png\n"%(i)
         else:
             end += "save\n anim/0%d.png\n"%(i)
-    print end
     fd.write(end)

@@ -1,4 +1,3 @@
-import copy
 from display import *
 from matrix import *
 from draw import *
@@ -53,11 +52,10 @@ def parse_file( fname, edges, screen, color ):
     f = open(fname)
     lines = f.readlines()
 
-    step = 0.1
+    step = 0.01
     c = 0
 
     top = 0
-    edges = []
     
     while c < len(lines):
         line = lines[c].strip()
@@ -71,11 +69,9 @@ def parse_file( fname, edges, screen, color ):
         #EDGES IS A STACC NOW
             
         if line == 'push':
-            if top > 0:
-                # using the [:] trick didnt work o.O
-                newTop = copy.deepcopy( edges[top] )
-                edges.append(newTop)
-                top += 1
+            new = edges[top][:]
+            edges.append(new)
+            top += 1
         
         elif line == 'pop':
             edges.pop()
@@ -111,11 +107,11 @@ def parse_file( fname, edges, screen, color ):
         elif line == 'circle':
             #print 'CIRCLE\t' + str(args)
             circle_edges = []
-            add_circle(edges,
+            add_circle(circle_edges,
                        float(args[0]), float(args[1]), float(args[2]),
                        float(args[3]), step)
             matrix_mult(edges[top], circle_edges)
-            draw_polygons(circle_edges, screen, color)
+            draw_lines(circle_edges, screen, color)
 
         elif line == 'hermite' or line == 'bezier':
             #print 'curve\t' + line + ": " + str(args)
@@ -165,11 +161,11 @@ def parse_file( fname, edges, screen, color ):
             edges[top] = t
                 
         elif line == 'clear':
-            top = 0
-            edges = []
+            edges = [ ]
             cleared = new_matrix()
             ident(cleared)
             edges.append(cleared)
+            top = 0
             clear_screen(screen)
             
         # elif line == 'ident':
