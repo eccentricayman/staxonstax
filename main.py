@@ -16,4 +16,4 @@ edges.append(temp)
 # print_matrix( make_hermite() )
 # print
 
-parse_file( 'dwscript', edges, screen, color )
+parse_file( 'script', edges, screen, color )

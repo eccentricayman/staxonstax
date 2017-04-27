@@ -52,7 +52,7 @@ def parse_file( fname, edges, screen, color ):
     f = open(fname)
     lines = f.readlines()
 
-    step = 0.01
+    step = 0.05
     c = 0
 
     top = 0

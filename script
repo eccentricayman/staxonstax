@@ -1,1020 +1,1512 @@
 clear
-sphere
-0 0 0 240
-torus
-0 0 0 240 0
-ident
+push
+move
+ 250 250 0
 rotate
  y 0.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 0.000000
 rotate
  x 0.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/000.png
 clear
-sphere
-0 0 0 236
-torus
-0 0 0 236 4
-ident
+push
+move
+ 250 250 0
 rotate
  y 5.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 5.000000
 rotate
  x 5.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/001.png
 clear
-sphere
-0 0 0 232
-torus
-0 0 0 232 8
-ident
+push
+move
+ 250 250 0
 rotate
  y 10.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 10.000000
 rotate
  x 10.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/002.png
 clear
-sphere
-0 0 0 228
-torus
-0 0 0 228 12
-ident
+push
+move
+ 250 250 0
 rotate
  y 15.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 15.000000
 rotate
  x 15.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/003.png
 clear
-sphere
-0 0 0 224
-torus
-0 0 0 224 16
-ident
+push
+move
+ 250 250 0
 rotate
  y 20.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 20.000000
 rotate
  x 20.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/004.png
 clear
-sphere
-0 0 0 220
-torus
-0 0 0 220 20
-ident
+push
+move
+ 250 250 0
 rotate
  y 25.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 25.000000
 rotate
  x 25.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/005.png
 clear
-sphere
-0 0 0 216
-torus
-0 0 0 216 24
-ident
+push
+move
+ 250 250 0
 rotate
  y 30.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 30.000000
 rotate
  x 30.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/006.png
 clear
-sphere
-0 0 0 212
-torus
-0 0 0 212 28
-ident
+push
+move
+ 250 250 0
 rotate
  y 35.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 35.000000
 rotate
  x 35.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/007.png
 clear
-sphere
-0 0 0 208
-torus
-0 0 0 208 32
-ident
+push
+move
+ 250 250 0
 rotate
  y 40.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 40.000000
 rotate
  x 40.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/008.png
 clear
-sphere
-0 0 0 204
-torus
-0 0 0 204 36
-ident
+push
+move
+ 250 250 0
 rotate
  y 45.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 45.000000
 rotate
  x 45.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/009.png
 clear
-sphere
-0 0 0 200
-torus
-0 0 0 200 40
-ident
+push
+move
+ 250 250 0
 rotate
  y 50.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 50.000000
 rotate
  x 50.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/010.png
 clear
-sphere
-0 0 0 196
-torus
-0 0 0 196 44
-ident
+push
+move
+ 250 250 0
 rotate
  y 55.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 55.000000
 rotate
  x 55.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/011.png
 clear
-sphere
-0 0 0 192
-torus
-0 0 0 192 48
-ident
+push
+move
+ 250 250 0
 rotate
  y 60.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 60.000000
 rotate
  x 60.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/012.png
 clear
-sphere
-0 0 0 188
-torus
-0 0 0 188 52
-ident
+push
+move
+ 250 250 0
 rotate
  y 65.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 65.000000
 rotate
  x 65.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/013.png
 clear
-sphere
-0 0 0 184
-torus
-0 0 0 184 56
-ident
+push
+move
+ 250 250 0
 rotate
  y 70.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 70.000000
 rotate
  x 70.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/014.png
 clear
-sphere
-0 0 0 180
-torus
-0 0 0 180 60
-ident
+push
+move
+ 250 250 0
 rotate
  y 75.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 75.000000
 rotate
  x 75.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/015.png
 clear
-sphere
-0 0 0 176
-torus
-0 0 0 176 64
-ident
+push
+move
+ 250 250 0
 rotate
  y 80.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 80.000000
 rotate
  x 80.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/016.png
 clear
-sphere
-0 0 0 172
-torus
-0 0 0 172 68
-ident
+push
+move
+ 250 250 0
 rotate
  y 85.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 85.000000
 rotate
  x 85.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/017.png
 clear
-sphere
-0 0 0 168
-torus
-0 0 0 168 72
-ident
+push
+move
+ 250 250 0
 rotate
  y 90.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 90.000000
 rotate
  x 90.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/018.png
 clear
-sphere
-0 0 0 164
-torus
-0 0 0 164 76
-ident
+push
+move
+ 250 250 0
 rotate
  y 95.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 95.000000
 rotate
  x 95.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/019.png
 clear
-sphere
-0 0 0 160
-torus
-0 0 0 160 80
-ident
+push
+move
+ 250 250 0
 rotate
  y 100.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 100.000000
 rotate
  x 100.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/020.png
 clear
-sphere
-0 0 0 156
-torus
-0 0 0 156 84
-ident
+push
+move
+ 250 250 0
 rotate
  y 105.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 105.000000
 rotate
  x 105.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/021.png
 clear
-sphere
-0 0 0 152
-torus
-0 0 0 152 88
-ident
+push
+move
+ 250 250 0
 rotate
  y 110.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 110.000000
 rotate
  x 110.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/022.png
 clear
-sphere
-0 0 0 148
-torus
-0 0 0 148 92
-ident
+push
+move
+ 250 250 0
 rotate
  y 115.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 115.000000
 rotate
  x 115.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/023.png
 clear
-sphere
-0 0 0 144
-torus
-0 0 0 144 96
-ident
+push
+move
+ 250 250 0
 rotate
  y 120.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 120.000000
 rotate
  x 120.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/024.png
 clear
-sphere
-0 0 0 140
-torus
-0 0 0 140 100
-ident
+push
+move
+ 250 250 0
 rotate
  y 125.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 125.000000
 rotate
  x 125.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/025.png
 clear
-sphere
-0 0 0 136
-torus
-0 0 0 136 104
-ident
+push
+move
+ 250 250 0
 rotate
  y 130.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 130.000000
 rotate
  x 130.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/026.png
 clear
-sphere
-0 0 0 132
-torus
-0 0 0 132 108
-ident
+push
+move
+ 250 250 0
 rotate
  y 135.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 135.000000
 rotate
  x 135.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/027.png
 clear
-sphere
-0 0 0 128
-torus
-0 0 0 128 112
-ident
+push
+move
+ 250 250 0
 rotate
  y 140.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 140.000000
 rotate
  x 140.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/028.png
 clear
-sphere
-0 0 0 124
-torus
-0 0 0 124 116
-ident
+push
+move
+ 250 250 0
 rotate
  y 145.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 145.000000
 rotate
  x 145.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/029.png
 clear
-sphere
-0 0 0 120
-torus
-0 0 0 120 120
-ident
+push
+move
+ 250 250 0
 rotate
  y 150.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 150.000000
 rotate
  x 150.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/030.png
 clear
-sphere
-0 0 0 116
-torus
-0 0 0 116 124
-ident
+push
+move
+ 250 250 0
 rotate
  y 155.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 155.000000
 rotate
  x 155.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/031.png
 clear
-sphere
-0 0 0 112
-torus
-0 0 0 112 128
-ident
+push
+move
+ 250 250 0
 rotate
  y 160.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 160.000000
 rotate
  x 160.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/032.png
 clear
-sphere
-0 0 0 108
-torus
-0 0 0 108 132
-ident
+push
+move
+ 250 250 0
 rotate
  y 165.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 165.000000
 rotate
  x 165.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/033.png
 clear
-sphere
-0 0 0 104
-torus
-0 0 0 104 136
-ident
+push
+move
+ 250 250 0
 rotate
  y 170.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 170.000000
 rotate
  x 170.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/034.png
 clear
-sphere
-0 0 0 100
-torus
-0 0 0 100 140
-ident
+push
+move
+ 250 250 0
 rotate
  y 175.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 175.000000
 rotate
  x 175.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/035.png
 clear
-sphere
-0 0 0 96
-torus
-0 0 0 96 144
-ident
+push
+move
+ 250 250 0
 rotate
  y 180.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 180.000000
 rotate
  x 180.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/036.png
 clear
-sphere
-0 0 0 92
-torus
-0 0 0 92 148
-ident
+push
+move
+ 250 250 0
 rotate
  y 185.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 185.000000
 rotate
  x 185.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/037.png
 clear
-sphere
-0 0 0 88
-torus
-0 0 0 88 152
-ident
+push
+move
+ 250 250 0
 rotate
  y 190.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 190.000000
 rotate
  x 190.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/038.png
 clear
-sphere
-0 0 0 84
-torus
-0 0 0 84 156
-ident
+push
+move
+ 250 250 0
 rotate
  y 195.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 195.000000
 rotate
  x 195.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/039.png
 clear
-sphere
-0 0 0 80
-torus
-0 0 0 80 160
-ident
+push
+move
+ 250 250 0
 rotate
  y 200.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 200.000000
 rotate
  x 200.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/040.png
 clear
-sphere
-0 0 0 76
-torus
-0 0 0 76 164
-ident
+push
+move
+ 250 250 0
 rotate
  y 205.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 205.000000
 rotate
  x 205.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/041.png
 clear
-sphere
-0 0 0 72
-torus
-0 0 0 72 168
-ident
+push
+move
+ 250 250 0
 rotate
  y 210.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 210.000000
 rotate
  x 210.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/042.png
 clear
-sphere
-0 0 0 68
-torus
-0 0 0 68 172
-ident
+push
+move
+ 250 250 0
 rotate
  y 215.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 215.000000
 rotate
  x 215.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/043.png
 clear
-sphere
-0 0 0 64
-torus
-0 0 0 64 176
-ident
+push
+move
+ 250 250 0
 rotate
  y 220.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 220.000000
 rotate
  x 220.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/044.png
 clear
-sphere
-0 0 0 60
-torus
-0 0 0 60 180
-ident
+push
+move
+ 250 250 0
 rotate
  y 225.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 225.000000
 rotate
  x 225.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/045.png
 clear
-sphere
-0 0 0 56
-torus
-0 0 0 56 184
-ident
+push
+move
+ 250 250 0
 rotate
  y 230.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 230.000000
 rotate
  x 230.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/046.png
 clear
-sphere
-0 0 0 52
-torus
-0 0 0 52 188
-ident
+push
+move
+ 250 250 0
 rotate
  y 235.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 235.000000
 rotate
  x 235.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/047.png
 clear
-sphere
-0 0 0 48
-torus
-0 0 0 48 192
-ident
+push
+move
+ 250 250 0
 rotate
  y 240.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 240.000000
 rotate
  x 240.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/048.png
 clear
-sphere
-0 0 0 44
-torus
-0 0 0 44 196
-ident
+push
+move
+ 250 250 0
 rotate
  y 245.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 245.000000
 rotate
  x 245.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/049.png
 clear
-sphere
-0 0 0 40
-torus
-0 0 0 40 200
-ident
+push
+move
+ 250 250 0
 rotate
  y 250.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 250.000000
 rotate
  x 250.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/050.png
 clear
-sphere
-0 0 0 36
-torus
-0 0 0 36 204
-ident
+push
+move
+ 250 250 0
 rotate
  y 255.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 255.000000
 rotate
  x 255.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/051.png
 clear
-sphere
-0 0 0 32
-torus
-0 0 0 32 208
-ident
+push
+move
+ 250 250 0
 rotate
  y 260.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 260.000000
 rotate
  x 260.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/052.png
 clear
-sphere
-0 0 0 28
-torus
-0 0 0 28 212
-ident
+push
+move
+ 250 250 0
 rotate
  y 265.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 265.000000
 rotate
  x 265.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/053.png
 clear
-sphere
-0 0 0 24
-torus
-0 0 0 24 216
-ident
+push
+move
+ 250 250 0
 rotate
  y 270.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 270.000000
 rotate
  x 270.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/054.png
 clear
-sphere
-0 0 0 20
-torus
-0 0 0 20 220
-ident
+push
+move
+ 250 250 0
 rotate
  y 275.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 275.000000
 rotate
  x 275.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/055.png
 clear
-sphere
-0 0 0 16
-torus
-0 0 0 16 224
-ident
+push
+move
+ 250 250 0
 rotate
  y 280.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 280.000000
 rotate
  x 280.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/056.png
 clear
-sphere
-0 0 0 12
-torus
-0 0 0 12 228
-ident
+push
+move
+ 250 250 0
 rotate
  y 285.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 285.000000
 rotate
  x 285.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/057.png
 clear
-sphere
-0 0 0 8
-torus
-0 0 0 8 232
-ident
+push
+move
+ 250 250 0
 rotate
  y 290.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 290.000000
 rotate
  x 290.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/058.png
 clear
-sphere
-0 0 0 4
-torus
-0 0 0 4 236
-ident
+push
+move
+ 250 250 0
 rotate
  y 295.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
 rotate
  z 295.000000
 rotate
  x 295.000000
-move
- 250 250 0
-apply
+torus
+0 0 0 25 150
+pop
 save
  anim/059.png
+clear
+push
+move
+ 250 250 0
+rotate
+ y 300.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
+rotate
+ z 300.000000
+rotate
+ x 300.000000
+torus
+0 0 0 25 150
+pop
+save
+ anim/060.png
+clear
+push
+move
+ 250 250 0
+rotate
+ y 305.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
+rotate
+ z 305.000000
+rotate
+ x 305.000000
+torus
+0 0 0 25 150
+pop
+save
+ anim/061.png
+clear
+push
+move
+ 250 250 0
+rotate
+ y 310.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
+rotate
+ z 310.000000
+rotate
+ x 310.000000
+torus
+0 0 0 25 150
+pop
+save
+ anim/062.png
+clear
+push
+move
+ 250 250 0
+rotate
+ y 315.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
+rotate
+ z 315.000000
+rotate
+ x 315.000000
+torus
+0 0 0 25 150
+pop
+save
+ anim/063.png
+clear
+push
+move
+ 250 250 0
+rotate
+ y 320.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
+rotate
+ z 320.000000
+rotate
+ x 320.000000
+torus
+0 0 0 25 150
+pop
+save
+ anim/064.png
+clear
+push
+move
+ 250 250 0
+rotate
+ y 325.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
+rotate
+ z 325.000000
+rotate
+ x 325.000000
+torus
+0 0 0 25 150
+pop
+save
+ anim/065.png
+clear
+push
+move
+ 250 250 0
+rotate
+ y 330.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
+rotate
+ z 330.000000
+rotate
+ x 330.000000
+torus
+0 0 0 25 150
+pop
+save
+ anim/066.png
+clear
+push
+move
+ 250 250 0
+rotate
+ y 335.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
+rotate
+ z 335.000000
+rotate
+ x 335.000000
+torus
+0 0 0 25 150
+pop
+save
+ anim/067.png
+clear
+push
+move
+ 250 250 0
+rotate
+ y 340.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
+rotate
+ z 340.000000
+rotate
+ x 340.000000
+torus
+0 0 0 25 150
+pop
+save
+ anim/068.png
+clear
+push
+move
+ 250 250 0
+rotate
+ y 345.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
+rotate
+ z 345.000000
+rotate
+ x 345.000000
+torus
+0 0 0 25 150
+pop
+save
+ anim/069.png
+clear
+push
+move
+ 250 250 0
+rotate
+ y 350.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
+rotate
+ z 350.000000
+rotate
+ x 350.000000
+torus
+0 0 0 25 150
+pop
+save
+ anim/070.png
+clear
+push
+move
+ 250 250 0
+rotate
+ y 355.000000
+sphere
+0 0 0 50
+pop
+push
+move
+ 250 250 0
+rotate
+ z 355.000000
+rotate
+ x 355.000000
+torus
+0 0 0 25 150
+pop
+save
+ anim/071.png
